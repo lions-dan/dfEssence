@@ -19,6 +19,11 @@
     "react-scripts": "3.2.0",
     "styled-components": "^4.4.0"
   },
+  "engines":{
+    "npm": "6.11.3",
+    "node": "12.10.0"
+
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
