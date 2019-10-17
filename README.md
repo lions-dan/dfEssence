@@ -16,7 +16,7 @@ You will also see any lint errors in the console.
 
 ## Authors
 
-* **Daniel Fagbuyi** - *Initial work* - [PurpleBooth](https://github.com/lions-dan)
+* **Daniel Fagbuyi** - *Initial work* - [Daniel's Github](https://github.com/lions-dan)
 
 
 ## License
