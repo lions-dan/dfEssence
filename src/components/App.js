@@ -22,7 +22,7 @@ const useStyles = makeStyles(theme => ({
 }));
 
 const client_id = "a5914f22cf6248f1831513dd5e0f184c";
-const redirect_url = "https://localhost:3000/";
+const redirect_url = "dfessence.herokuapp.com/";
 var accessToken;
 
 function presentAuthentication(){
